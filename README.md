@@ -1,3 +1,4 @@
+read more from https://www.enginkaratas.com/typescript-starter-pack/
 # typsecript-starter-pack
 start here: typescript starter pack github
 
