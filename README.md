@@ -1,43 +1,89 @@
 read more from https://www.enginkaratas.com/typescript-starter-pack/
-# typsecript-starter-pack
-start here: typescript starter pack github
+
+You can see the typescript starterpack in: 👉github
+
+Content:
+
+Introduction
 
 TypeScript Starter Pack
-Included packages explained below.
 
-auto build-execute for typescript and nodejs:
+Automatic Build and Execution for TypeScript and Node.js
 
-npm packet insall(global install required)
+Powerful and Easy to Handle HTTP Requests with Express.js
 
-npm install -g ts-node 
-powerful and easy to handle http requests express js
+Type Checking for Node.js
+
+Type Checking for Express.js
+
+Different Import Keywords
+
+Listeners
+
+Conclusion
+
+If you're a web developer looking for a way to get started with Typescript, you're in luck. TypeScript NodeJs Starter Pack on GitHub is the perfect solution to get your feet wet. This starter pack contains all the essential packages you need to get started with TypeScript, Node.js, and Express.js. In this guide, we'll show you how to use this starter pack to build your TypeScript application. So, let's get started!
+
+# 1.Introduction to TypeScript NodeJs  Starter Pack
+
+The goal of the TypeScript NodeJs NodeJs  Starter Pack is to provide developers with a streamlined way to get started with TypeScript, without having to spend time setting up their development environment.
+
+# 2.Auto Build-Execute for TypeScript and Node.js
+
+One of the essential packages included in TypeScript Nodejs Starter Pack is ts-node. Ts-node is a TypeScript execution environment for Node.js that allows developers to execute TypeScript code directly without having to compile it first. Ts-node is perfect for developers who want to focus on writing code without worrying about the build process.
+
+To install ts-node, you'll need to run the following command:
+
+npm install -g ts-node
+
+# 3.Powerful and Easy to Handle HTTP Requests with Express.js
+
+Express.js is a fast, unopinionated, and minimalist web framework for Node.js. It is perfect for building web applications and APIs. Express.js is included in the TypeScript Starter Pack, and it's a great choice for developers who want to handle HTTP requests and build web applications.
+
+To install Express.js, you'll need to run the following command:
 
 npm install express
-type checking for nodejs
 
-This will give you access to type definitions for node.
+# 4.Type Checking for Node.js
+
+Type definitions for Node.js is important. Type checking is an essential part of building robust applications, and the TypeScript NodeJs  Starter Pack makes it easy for developers to get started with type checking.
+
+To install type definitions for Node.js, you'll need to run the following command:
 
 npm install -D @types/node
-type checking for express.
 
-This will give you access to type definitions for Express.
+# 5.Type Checking for Express.js
 
-Not all packages have @types. Package with types has the following NPM @types tag.
+In addition to type definitions for Node.js, TypeScript NodeJs  Starter Pack also includes type definitions for Express.js. Type checking for Express.js is essential, as it helps developers catch errors and bugs before they become problems.
 
-for example express npm
-
+To install type definitions for Express.js, you'll need to run the following command:
 
 npm install -D @types/express
-Diffrent import keywords:
-nodejs import keyword is require(), typescript deals with another keyoword is import.
 
-Listener:
-When developing an extensive application, it’s advisable to hook your project with watch parameters that will help you restart your server whenever you make and save changes to your code structure.
+# 6.Different Import Keywords
 
-There are two main options:
+One of the main differences between Node.js and TypeScript is the way they handle imports. In Node.js, the import keyword is require(). In TypeScript, the import keyword is used to import modules.
 
-Ts-node-dev – Ts-node-dev watches .ts files, and whenever you make a change, it will restart the server for you.
-Run the command below to install it. //nodemon could be used same way
+# 7.Listener
+
+When developing an extensive application, it's essential to have a watch parameter to help you restart your server whenever you make and save changes to your code. Ts-node-dev is a package that watches .ts files, and whenever you make a change, it will restart the server for you.
+
+To install ts-node-dev, you'll need to run the following command:
 
 npm install -D ts-node-dev
-start here: typescript starter pack github TypeScript Starter Pack Included packages explained below. auto build-execute for typescript and nodejs: npm packet insall(global install required) powerful and easy to handle http requests express js type checking for nodejs This will give you access to type definitions for node. type checking for…
+
+# 8.TypeScript Getting Started
+
+Now that you have a basic understanding of TypeScript NodeJs Starter Pack, it's time to get started. First, you'll need to clone the repository from GitHub. Once you've cloned the repository, you can navigate to the project's directory and run the following command to install all the dependencies:
+
+npm install
+
+Once the installation is complete, you can start the server by running the following command:
+
+npm run start
+
+# 9.Conclusion
+
+TypeScript NodeJs Starter Pack is an excellent starting point for developers who want to get started with TypeScript. 
+
+You can see the typescript starterpack in: 👉github
