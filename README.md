@@ -4,23 +4,23 @@ You can see the typescript starterpack in: 👉github
 
 Content:
 
-Introduction
+# 1.Introduction
 
-TypeScript Starter Pack
+# 2.TypeScript Starter Pack
 
-Automatic Build and Execution for TypeScript and Node.js
+# 3.Automatic Build and Execution for TypeScript and Node.js
 
-Powerful and Easy to Handle HTTP Requests with Express.js
+# 4.Powerful and Easy to Handle HTTP Requests with Express.js
 
-Type Checking for Node.js
+# 5.Type Checking for Node.js
 
-Type Checking for Express.js
+# 6.Type Checking for Express.js
 
-Different Import Keywords
+# 7.Different Import Keywords
 
-Listeners
+# 8.Listeners
 
-Conclusion
+# 9.Conclusion
 
 If you're a web developer looking for a way to get started with Typescript, you're in luck. TypeScript NodeJs Starter Pack on GitHub is the perfect solution to get your feet wet. This starter pack contains all the essential packages you need to get started with TypeScript, Node.js, and Express.js. In this guide, we'll show you how to use this starter pack to build your TypeScript application. So, let's get started!
 
