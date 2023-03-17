@@ -1,6 +1,6 @@
 read more from https://www.enginkaratas.com/typescript-starter-pack/
 
-You can see the typescript starterpack in: 👉github
+You can just use this repo for ts-starter-pack ready to go!
 
 Content:
 
