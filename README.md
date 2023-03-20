@@ -1,4 +1,3 @@
-read more from https://www.enginkaratas.com/typescript-starter-pack/
 
 You can just use this repo for ts-starter-pack ready to go!
 
@@ -86,4 +85,6 @@ npm run start
 
 TypeScript NodeJs Starter Pack is an excellent starting point for developers who want to get started with TypeScript. 
 
-You can see the typescript starterpack in: 👉github
+You can see the typescript starterpack in this repo.
+read more from https://www.enginkaratas.com/typescript-starter-pack/
+
